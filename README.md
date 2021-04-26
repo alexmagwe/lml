@@ -15,7 +15,7 @@ the algorithm is fed some dataand its outputs and trains itself based on that to
 supervised learning is categorized into classification and regression problems
 #### Classification
 Here the system is trying to predict results in a descrete output,in otherwords its trying to map variables into discrete categories.
-####Regression
+#### Regression
 here we are trying to predict results in a continous output.in other wordsmapping input variables to some continous function
 
 ### Unsupervised learning
