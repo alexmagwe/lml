@@ -29,7 +29,7 @@ use to map an input to a continous output,e.g, predicting housing prices
 x->h(x)->y
 h(x) is the function that maps x to y it is called a hypothesis,
 h(x)=Ax+c
-where a is a scalar and c is a constant
+where A is a scalar and c is a constant
 
 #### Cost function
 
